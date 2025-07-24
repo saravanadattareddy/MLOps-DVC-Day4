@@ -1,2 +1,6 @@
 1. Create git repo and clone it in local.
 2. Create mycode.py and add code to it.
+3. Do a git commit before dvc install.
+#pip installdvc
+4. now we do "dvc init" (creates .dvcignore, .dvc)
+
